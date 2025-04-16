@@ -1,0 +1,28 @@
+.filme {
+    background-color: rgb(228, 142, 221);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    color: rgb(255, 255, 255);
+}
+h3{
+    font-size: 25px;
+    background-color: rgb(250, 149, 225);
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.preenchido {
+    color: rgb(212, 248, 6);
+    font-size: 24px;
+}
+
+.naoPreenchido {
+    color: rgba(0, 0, 0, 0.932);
+    font-size: 24px;
+}
